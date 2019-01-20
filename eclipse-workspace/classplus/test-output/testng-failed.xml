@@ -6,7 +6,7 @@
       <class name="com.classplusapp.classplus.ClassPlus">
         <methods>
           <include name="closeBrowser"/>
-          <include name="titleVerify"/>
+          <include name="productPage"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.classplusapp.classplus.ClassPlus -->

@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5414" started-at="2019-01-20T20:56:47Z" finished-at="2019-01-20T20:56:52Z">
+  <suite name="Default suite" duration-ms="9147" started-at="2019-01-20T22:01:37Z" finished-at="2019-01-20T22:01:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5414" started-at="2019-01-20T20:56:47Z" finished-at="2019-01-20T20:56:52Z">
+    <test name="Default test" duration-ms="9147" started-at="2019-01-20T22:01:37Z" finished-at="2019-01-20T22:01:46Z">
       <class name="com.classplusapp.classplus.ClassPlus">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="setUp" is-config="true" duration-ms="5250" started-at="2019-01-20T20:56:47Z" finished-at="2019-01-20T20:56:52Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="setUp" is-config="true" duration-ms="5784" started-at="2019-01-20T22:01:37Z" finished-at="2019-01-20T22:01:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="titleVerify()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="titleVerify" duration-ms="19" started-at="2019-01-20T20:56:52Z" finished-at="2019-01-20T20:56:52Z">
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="homePage" duration-ms="63" started-at="2019-01-20T22:01:43Z" finished-at="2019-01-20T22:01:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="productPage()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="productPage" duration-ms="3141" started-at="2019-01-20T22:01:43Z" finished-at="2019-01-20T22:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productPage -->
+        <test-method status="PASS" signature="titleVerify()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="titleVerify" duration-ms="10" started-at="2019-01-20T22:01:46Z" finished-at="2019-01-20T22:01:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleVerify -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="closeBrowser" is-config="true" duration-ms="113" started-at="2019-01-20T20:56:52Z" finished-at="2019-01-20T20:56:52Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="closeBrowser" is-config="true" duration-ms="112" started-at="2019-01-20T22:01:46Z" finished-at="2019-01-20T22:01:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
