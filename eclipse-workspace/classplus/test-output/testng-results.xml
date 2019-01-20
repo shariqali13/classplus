@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5414" started-at="2019-01-20T20:56:47Z" finished-at="2019-01-20T20:56:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5414" started-at="2019-01-20T20:56:47Z" finished-at="2019-01-20T20:56:52Z">
+      <class name="com.classplusapp.classplus.ClassPlus">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="setUp" is-config="true" duration-ms="5250" started-at="2019-01-20T20:56:47Z" finished-at="2019-01-20T20:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="titleVerify()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="titleVerify" duration-ms="19" started-at="2019-01-20T20:56:52Z" finished-at="2019-01-20T20:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerify -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.classplusapp.classplus.ClassPlus@548e7350]" name="closeBrowser" is-config="true" duration-ms="113" started-at="2019-01-20T20:56:52Z" finished-at="2019-01-20T20:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.classplusapp.classplus.ClassPlus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
